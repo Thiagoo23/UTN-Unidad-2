@@ -18,20 +18,14 @@ main {
     background-color: white;
     overflow: hidden;
     padding: 25px;
-    border: 5px black;
-}
-
-footer {
-    background-color: black;
-    color: white;
-    padding: 10px;
 }
 
 div { 
-    margin-top: 10px;
+    margin: 10px;
     padding: 10px;
     width: 600px;
-    border-bottom: 5px solid #00B9FF;
+    height: 350px;
+    border: 5px solid #00B9FF;
     border-radius: 20px;
     text-align: center;
     float: left;
@@ -42,12 +36,12 @@ h1 {
 }
 
 h2{
-    text-align: left;
+    text-align: center;
     font-size: 30px;
     font-family: Imbue;
     background-color: #00B9FF;
     border-radius: 10px;
-    border
+    
 }
 
 h3{
@@ -62,11 +56,11 @@ p{
 
 img{
     border: 2px solid white;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
     float: left;
-    margin: 10px;
+    margin: 20px;
 }
 
 .lora-<uniquifier> {
